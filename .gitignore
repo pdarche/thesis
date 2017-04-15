@@ -5,3 +5,4 @@ svo/
 data/
 notes/
 notebooks/config.py
+notebooks/*.pickle
